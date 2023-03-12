@@ -110,7 +110,4 @@ Learnings 📒:
 
 
 
-# Geekbuying-clone
-
-Project Netlify Link :- https://cute-shortbread-9d187d.netlify.app/
 
